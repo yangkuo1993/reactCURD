@@ -1,0 +1,14 @@
+.book{
+    width: 170px;
+    box-sizing: border-box;
+    float: left;
+    padding: 10px;
+    box-shadow: 1px 1px 1px 1px #f0f0f0;
+    margin: 10px;
+}
+.book img{
+    width: 100%;
+}
+.book p{
+    color: #ffffff;
+}
